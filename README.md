@@ -8,7 +8,6 @@
   - [osTicket: Post-Installation Configuration] (https://github.com/Trekewi/osticket-postinstallationsetup)
   - [osTicket: Ticket Lifecycle Examples] (https://github.com/Trekewi/osticket-ticketsandticketlifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]
+  - [Configuring On-premises Active Directory within Azure VMs] ()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols] ()
 
-[linkedin]: https://www.linkedin.com/in/jesse-gilbert-0b9399265/
